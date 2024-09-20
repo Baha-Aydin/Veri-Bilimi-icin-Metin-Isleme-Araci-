@@ -1,5 +1,7 @@
 Metin verilerini işleyerek yapay zeka uygulamaları için bir veri seti oluşturmayı amaçlamaktadır. Aşağıda projenin ana amaçları ve potansiyel kullanım alanları belirtilmiştir:
 
+Proje " python " ile oluşturulmuştur.
+
 Projenin Amaçları:
 1. Veri Seti Oluşturma: Metin verilerini analiz ederek, her bir cümlenin kelime sayısı, karakter sayısı, ortalama kelime uzunluğu gibi özelliklerini hesaplar. Bu özellikler, model eğitimi için faydalı olacaktır.
 
