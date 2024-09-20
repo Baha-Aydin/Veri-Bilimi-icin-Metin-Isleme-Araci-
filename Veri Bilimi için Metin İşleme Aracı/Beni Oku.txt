@@ -1,0 +1,21 @@
+Metin verilerini işleyerek yapay zeka uygulamaları için bir veri seti oluşturmayı amaçlamaktadır. Aşağıda projenin ana amaçları ve potansiyel kullanım alanları belirtilmiştir:
+
+Projenin Amaçları:
+1. Veri Seti Oluşturma: Metin verilerini analiz ederek, her bir cümlenin kelime sayısı, karakter sayısı, ortalama kelime uzunluğu gibi özelliklerini hesaplar. Bu özellikler, model eğitimi için faydalı olacaktır.
+
+2. Bit Dönüşümü: Her karakterin ASCII karşılığını bit değerlerine dönüştürerek, metinlerin sayısal temsillerini elde eder. Bu, yapay zeka modellerinin karakter düzeyinde analizi için önemlidir.
+
+3. Makine Öğrenimi Eğitimi: Metinlerin sınıflandırılması için Naive Bayes gibi makine öğrenimi algoritmalarını kullanarak, modelin eğitimini ve doğrulamasını sağlar. Bu, metin sınıflandırma uygulamalarında kullanılabilir.
+
+4. Doğrulama ve Güncelleme: Modelin performansını değerlendirip, gerektiğinde güncelleyerek, zamanla daha doğru ve etkili hale gelmesini sağlar.
+
+Potansiyel Kullanım Alanları:
+- Metin Sınıflandırma: Belirli kategorilere veya temalara göre metinleri sınıflandırmak (örneğin, olumlu/olumsuz yorumlar).
+- Duygu Analizi: Kullanıcıların metinlerinden duygusal durumlarını analiz etme.
+- Otomatik Özetleme: Uzun metinleri özetlemek için kullanılabilir.
+- Metin Üretimi: Girdi metinlerine dayalı olarak yeni metinler oluşturma.
+- Eğitim ve Araştırma: Veri bilimi ve makine öğrenimi alanında eğitim materyali olarak kullanılabilir.
+
+Özellikle dil işleme alanında çalışan araştırmacılar ve geliştiriciler için temel bir yapı sunar. Verileri analiz etme ve bunları makine öğrenimi modelleri ile entegre etme yeteneği, birçok farklı uygulama geliştirmek için kullanılabilir.
+
+Bu proje eğitim amaçlıdır.
